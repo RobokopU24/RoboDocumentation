@@ -1,9 +1,9 @@
-,e00,e01,n00,n01,n02
-0,biolink:affects,biolink:genetic_association,Buprenorphine,OPRM1,Asterixis
-1,biolink:affects,biolink:genetic_association,Brixadi,OPRM1,Asterixis
-2,biolink:directly_physically_interacts_with,biolink:genetic_association,Buprenorphine,CYP2D6,Limb tremor
-3,biolink:directly_physically_interacts_with,biolink:genetic_association,Buprenorphine,CYP2D6,Resting tremor
-4,biolink:directly_physically_interacts_with,biolink:genetic_association,Buprenorphine,CYP2D6,Pill-rolling tremor
-5,biolink:directly_physically_interacts_with,biolink:genetic_association,Buprenorphine,CYP2D6,Tremor
-6,biolink:directly_physically_interacts_with,biolink:genetic_association,Buprenorphine,CYP2D6,Action tremor
-7,biolink:directly_physically_interacts_with,biolink:genetic_association,Buprenorphine,CYP2D6,Postural tremor
+,n02,n01,n00
+0,Asterixis,OPRM1,Buprenorphine
+1,Postural tremor,CYP2D6,Buprenorphine
+2,Pill-rolling tremor,CYP2D6,Buprenorphine
+3,Limb tremor,CYP2D6,Buprenorphine
+4,Action tremor,CYP2D6,Buprenorphine
+5,Asterixis,OPRM1,Brixadi
+6,Tremor,CYP2D6,Buprenorphine
+7,Resting tremor,CYP2D6,Buprenorphine

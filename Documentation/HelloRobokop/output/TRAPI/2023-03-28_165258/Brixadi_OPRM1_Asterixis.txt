@@ -1,0 +1,1 @@
+{"Brixadi -> biolink:affects -> OPRM1": 1, "OPRM1 -> biolink:genetic_association -> Asterixis": 1}

@@ -1,0 +1,1 @@
+{"Buprenorphine -> biolink:directly_physically_interacts_with -> CYP2D6": 1, "Buprenorphine -> biolink:affects -> CYP2D6": 1, "CYP2D6 -> biolink:affects -> Buprenorphine": 1, "CYP2D6 -> biolink:genetic_association -> Tremor": 2}

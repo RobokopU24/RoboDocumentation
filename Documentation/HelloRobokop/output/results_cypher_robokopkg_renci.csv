@@ -1,0 +1,7 @@
+,n0_0,n1_0,n2_0,r0_0,r1_0
+0,Buprenorphine,CYP2D6,Tremor,biolink:affects,biolink:genetic_association
+1,Buprenorphine,CYP2D6,Tremor,biolink:affects,biolink:genetic_association
+2,Buprenorphine,CYP2D6,Tremor,biolink:directly_physically_interacts_with,biolink:genetic_association
+3,Buprenorphine,CYP2D6,Tremor,biolink:affects,biolink:genetic_association
+4,Buprenorphine,CYP2D6,Tremor,biolink:affects,biolink:genetic_association
+5,Buprenorphine,CYP2D6,Tremor,biolink:directly_physically_interacts_with,biolink:genetic_association

@@ -15,6 +15,6 @@ Set of Jupyter notebooks demonstrating basic usage of ROBOKOP tools and methods 
     - Includes querying via automat and Aragorn
 - HelloRobokop_Name_Tools.ipynb
 	- A demonstration of the Node Normalizer and Name Resolver tools as shown in `HelloRobokop.ipynb`
-- HelloRobokop_TRAPI_Cypher_compare.ipynb
+- HelloRobokop_Compare.ipynb
     - A demonstration of the compare_results() function that gets the common and exclusive edges between two extracted sets of ROBOKOP query results
-    - Includes queries using Cypher (to automat and robokopkg) and TRAPI
+    - Includes queries to TRAPI

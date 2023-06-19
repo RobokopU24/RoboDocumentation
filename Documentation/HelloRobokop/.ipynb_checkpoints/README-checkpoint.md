@@ -25,3 +25,5 @@ Set of Jupyter notebooks demonstrating basic usage of ROBOKOP tools and methods 
 - HelloRobokop_Compare.ipynb
     - A demonstration of the compare_results() function that gets the common and exclusive edges between two extracted sets of ROBOKOP query results
     - Includes queries to TRAPI
+    
+![HelloRobokop_Structure](HelloRobokop_Structure.png)

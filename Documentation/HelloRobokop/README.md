@@ -26,4 +26,9 @@ Set of Jupyter notebooks demonstrating basic usage of ROBOKOP tools and methods 
     - A demonstration of the compare_results() function that gets the common and exclusive edges between two extracted sets of ROBOKOP query results
     - Includes queries to TRAPI
     
+## Organization of Notebooks
+The notebooks cover increasingly more complex topics with later notebooks building on the content from the beginning ones. The graphic below summarizes some of the different paths available to users depending on their interests.
+
 ![HelloRobokop_Structure](HelloRobokop_Structure.png)
+
+Note that the Robokop UIs node in the graphic above corresponds to a section in the HelloRobokop.ipynb notebook. All other nodes correspond to a notebook from the list above.

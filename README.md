@@ -10,4 +10,4 @@ For users who are new to ROBOKOP and would like to incorporate calls to ROBOKOP 
 	5. HelloRobokop_ExEmPLAR.ipynb
 	6. HelloRobokop_Compare.ipynb
 
-Currently, the Testing directory is the section for developers and will at a later date contain test cases using ROBOKOP.
+Currently, the Testing directory is the section for developers and may at a later date contain test cases using ROBOKOP.
